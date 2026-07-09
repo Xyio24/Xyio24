@@ -90,7 +90,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Xyio24)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@nem3.xd@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-@andy2128-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-@andy2128-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
