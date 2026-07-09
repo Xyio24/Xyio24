@@ -46,7 +46,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -74,11 +74,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
 </p>
 
+--->
 ---
 
 ## 🌱 Currently Learning
 
-- Kubernetes
 - Docker Swarm
 - Golang
 - React
